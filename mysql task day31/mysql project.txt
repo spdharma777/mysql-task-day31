@@ -1,0 +1,3 @@
+create table movies_db (id int, movie_name varchar(20),actor_name varchar(20), media varchar(30), genre varchar(20), users_review varchar(500),artist_skills varchar(100), multirole_in_film varchar(200));
+insert into movies_db values (1, 'dasavatharam', 'kamalhasan', 'image', 'sci-fi', 'karthi: movie is stunning performance and nice play and very hard work', 'dancer,singer,director,editor','10 roles: nambi,flecture,govindrajan,kalifulla,avatar sing,bush,poovaragavan,grandma,palram naidu');
+insert into movies_db values (2, 'endhiran', 'rajinikanth', 'image', 'sci-fi', 'surya: movie is stunning performance and nice play and very hard work', 'dancer,singer,director','2 roles: dr.vashigaran,chitti the robot');
